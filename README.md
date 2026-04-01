@@ -1,14 +1,14 @@
+<img width="2626" height="818" alt="banner" src="https://github.com/user-attachments/assets/fc1138c1-c4a1-4a63-a09f-245e9e2a49b5" />
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+# VIZINHANÇA - Repositório Oficial
 
+O **Vizinhança** é um projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) que propõe uma solução digital inovadora para fortalecer a conexão entre pessoas de uma mesma região.
 
-# Template para TCC - Repositório Oficial
+A ideia nasce de um problema real: mesmo vivendo próximos, muitos vizinhos não se conhecem, não se comunicam e deixam de aproveitar oportunidades de colaboração, segurança e apoio mútuo. O **Vizinhança** surge para mudar esse cenário, oferecendo uma plataforma intuitiva que aproxima moradores, facilita a comunicação local e incentiva a construção de comunidades mais unidas e colaborativas.
 
-Este repositório serve como modelo (template) para organização e versionamento do Trabalho de Conclusão de Curso. Utilize esta estrutura para manter seu projeto organizado e facilitar o acompanhamento do orientador.
+Com foco em experiência do usuário (UX) e design de interface (UI), o projeto foi estruturado no Figma, onde foram desenvolvidos protótipos interativos, fluxos de navegação e validações de usabilidade. Cada decisão de design foi guiada pela busca de simplicidade, acessibilidade e eficiência.
 
-## Sobre este Template
-
-Este template foi desenvolvido para padronizar a organização dos TCCs das turmas de Desenvolvimento de Sistemas. 
+Mais do que um produto digital, o **Vizinhança** é uma proposta de impacto social, que utiliza a tecnologia como ponte para criar relações mais próximas, seguras e colaborativas no dia a dia.
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
@@ -26,13 +26,13 @@ Semestre: 2026/1
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
-│   └── 📄 [TAP](https://github.com/leonardo-scotti/tcc-vizinhanca/wiki/TAP)  
+│   └── 📄 TAP (formato WIKI)  
 │   └── 📄 LER.docx    
 │   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
 │   └── 📄 apresentação.pptx            #apresentação final
 
 
-├── 📂 code
+├── 📂 code</br>
 │   └── 📂 banco   
 │   └── 📂 backend   
 │   └── 📂 frontend  
@@ -42,6 +42,11 @@ Semestre: 2026/1
 
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
+
+## Protótipo
+- [Figma](https://www.figma.com/design/2WejxxUOh8pM9hdxt51dIR/vizinhan%C3%A7a?node-id=205-156&t=fvgEfNkgp7Rzg3vA-1)
+
+
 ## Contribuições
 
 Use mensagens claras e descritivas!
@@ -50,10 +55,9 @@ Commits pequenos e frequentes.
 
 Exemplo: git commit -m `Adiciona introdução com contexto do problema`
 
-## Authors
+## Autores
 
-- [@Aluno1](https://www.github.com/octokatherine)
-- [@Aluno2](https://www.github.com/octokatherine)
-- [@Aluno3](https://www.github.com/octokatherine)
-- [@Aluno4](https://www.github.com/octokatherine)
-- [@Aluno5](https://www.github.com/octokatherine)
+- [@Giovana Souza](https://github.com/giovana-lua)
+- [@Leonardo Scotti](https://github.com/leonardo-scotti)
+- [@Breno Machado](https://github.com/brenex920)
+- [@Roger Ribeiro](https://www.github.com/rgrrb)
