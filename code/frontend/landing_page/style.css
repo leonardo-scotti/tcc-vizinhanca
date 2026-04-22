@@ -67,7 +67,7 @@ main {
     height: 297px;
     top: 0px;
     background: #D0EDFF;
-    filter: blur(180px);
+    filter: blur(120px);
     border-radius: 0px;
 
 }
